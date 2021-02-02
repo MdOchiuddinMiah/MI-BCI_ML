@@ -1,0 +1,10 @@
+@relation relationName.attribute.NumericToNominal-weka.filters.unsupervised.attribute.NumericToNominal
+
+@attribute Theta numeric
+@attribute ' Alpha' numeric
+@attribute ' Low_beta' numeric
+@attribute ' High_beta' numeric
+@attribute ' Gamma' numeric
+@attribute Class {lefthand,righthand,steady}
+
+@data
