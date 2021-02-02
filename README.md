@@ -1,5 +1,5 @@
 # CluSem: accurate clustering-based Ensemble Method to predict Motor Imagery tasks from multi-channel EEG data
-##### Authors: Md Ochiuddin Miah, Rafsanjani Muhammod, and Abdollah Dehzangi
+##### Authors: Md Ochiuddin Miah, Rafsanjani Muhammod, Khondaker Abdullah Al Mamun, Dewan Md. Farid, Alok Sharma, and Abdollah Dehzangi
 
 #### Abstract
 The classification of motor imagery electroencephalogram (MI-EEG) is a pivotal task of the biosignal classification process in the brain-computer interface (BCI) applications. Currently, this bio-engineering based technology is being
