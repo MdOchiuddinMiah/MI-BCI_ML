@@ -10,22 +10,22 @@ movements. In this game, real-time EEG signal classification and prediction tabu
 By playing this game, users can control the movements of the balls via the brain signals of
 motor imagery movements without using any traditional input devices. The
 source codes—used to implement CluSem and CluGame—are publicly available
-at https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python.
+at https://github.com/MdOchiuddinMiah/MI-BCI_ML.
 
 &nbsp;
 
 ### 1. Download Package
 #### 1.1. Direct Download
-We can directly [download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python) by clicking the link.
+We can directly [download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/MdOchiuddinMiah/MI-BCI_ML) by clicking the link.
 
-> **Note:** The package will download in zip format `(.zip)` named `MI-BCI_Machine_Learning_Python.zip`.
+> **Note:** The package will download in zip format `(.zip)` named `MI-BCI_ML.zip`.
 
 
 #### 1.2. Clone a GitHub Repository (Optional)
 
 Cloning a repository syncs it to our local machine (Example for Linux-based OS). After clone, we can add and edit files and then push and pull updates.
-- Clone over HTTPS: `user@machine:~$ git clone https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python`
-- Clone over SSH: `user@machine:~$ git clone git@github.com:MdOchiuddinMiah/MI-BCI_Machine_Learning_Python.git `
+- Clone over HTTPS: `user@machine:~$ git clone https://github.com/MdOchiuddinMiah/MI-BCI_ML`
+- Clone over SSH: `user@machine:~$ git clone git@github.com:MdOchiuddinMiah/MI-BCI_ML.git `
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Cloning a repository syncs it to our local machine (Example for Linux-based OS).
 
 Feature Generate Process
 |----------------------|
-|<img align="center" src="https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python/blob/master/bmi-model.PNG" width="450" height="600" /> |
+|<img align="center" src="https://github.com/MdOchiuddinMiah/MI-BCI_ML/blob/master/bmi-model.PNG" width="450" height="600" /> |
 
 &nbsp;
 
@@ -42,20 +42,20 @@ Feature Generate Process
 
 Data acquisition and pre‑processing
 |----------------------|
-|<img align="center" src="https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python/blob/master/signal-acquisition.png" width="700" height="400" /> |
+|<img align="center" src="https://github.com/MdOchiuddinMiah/MI-BCI_ML/blob/master/signal-acquisition.png" width="700" height="400" /> |
 
-The source code of the data pre‑processing are available on the open-source repository. Please [click](https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python/tree/master/Data%20Pre-Processing) for the download.
+The source code of the data pre‑processing are available on the open-source repository. Please [click](https://github.com/MdOchiuddinMiah/MI-BCI_ML/tree/master/Pre-Processing) for the download.
 
-The datasets are available on the open-source repository. Please [click](https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python/tree/master/Datasets) for the download.
+The datasets are available on the open-source repository. Please [click](https://github.com/MdOchiuddinMiah/MI-BCI_ML/tree/master/Datasets) for the download.
 
 &nbsp;
 
 ### 4. Machine Learning (CluSem):
-The source code of the Machine Learning model are available on the open-source repository. Please [click](https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python/tree/master/Machine-Learning) for the download.
+The source code of the Machine Learning model are available on the open-source repository. Please [click](https://github.com/MdOchiuddinMiah/MI-BCI_ML/tree/master/Machine-Learning) for the download.
 
 &nbsp;
 
 ### 5. Brain-Games (CluGame):
-The source code of the Brain-Games are available on the open-source repository. Please [click](https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python/tree/master/Brain-Game) for the download.
+The source code of the Brain-Games are available on the open-source repository. Please [click](https://github.com/MdOchiuddinMiah/MI-BCI_ML/tree/master/Brain-Game) for the download.
 
-<img align="center" src="https://github.com/MdOchiuddinMiah/MI-BCI_Machine_Learning_Python/blob/master/brain-game.png" width="800" height="400" />
+<img align="center" src="https://github.com/MdOchiuddinMiah/MI-BCI_ML/blob/master/brain-game.png" width="800" height="400" />
